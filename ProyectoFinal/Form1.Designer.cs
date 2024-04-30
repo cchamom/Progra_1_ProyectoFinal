@@ -50,7 +50,7 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Regidtro y Cotrol del Hospital";
+            this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
